@@ -21,6 +21,7 @@ Worldwise is a travel application built with React that helps users track and vi
 - **Add and remove destinations**: Easily manage your travel destinations.
 - **Map markers**: View details with clickable map markers.
 - **Current location**: Center the map on your current location with a position button.
+- **Fast development**: Built with Vite for rapid development and optimized build.
 
 ## Installation
 
